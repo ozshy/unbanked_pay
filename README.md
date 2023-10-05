@@ -9,7 +9,7 @@ Use the 2022 data files (RDS) and the R-code unbanked_pay_2023_8_27.R
 
 
 ----- Atlanta Fed Policy Hub paper ----
-Use the 2021 data files (RDS) and the R-code 
+Use the 2021 data files (RDS) and the R-code unbanked_pay_2023_2_11.R
 
 
 
